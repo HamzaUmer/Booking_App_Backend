@@ -1,0 +1,21 @@
+{
+  "name": "Hotel of Edinburgh",
+  "type": "Hotel",
+  "city": "Edinburgh",
+  "address": "somewhere",
+  "distance": "777",
+  "title": "Best Hotel in Town",
+  "desc": "test description",
+  "cheapestPrice": 120
+}
+
+{
+  "name": "Hotel of Swat",
+  "type": "Hotel",
+  "city": "Swat",
+  "address": "somewhere",
+  "distance": "234",
+  "title": "Best Hotel in Town",
+  "desc": "test description",
+  "cheapestPrice": 60
+}
